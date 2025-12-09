@@ -1,5 +1,5 @@
 <h1>Crecimiento México vs Argentina/Brasil/Chile/Colombia</h1>
-<p>Objetivo del proyecto: Revisar tres bases de datos: crecimiento económico PIB, crecimiento PPA y crecimiento poblacional para conocer la posición de México frente a otras economías importantes en la región de América Latina.</p>
+<p>Objetivo del proyecto: Revisar cinco bases de datos: crecimiento económico PIB, crecimiento PPA, crecimiento poblacional, índice de precios al consumidor y tasa de desempleo para conocer la posición de México frente a otras economías importantes en la región de América Latina.</p>
 <p>Paquetería utilizada: Anaconda, VS Code, Python, pandas y plotly</p>
 <p>Habilidades adquiridas: Análisis de datos, limpieza de datos, modelado de datos, visualización de datos, condicionales y filtros</p>
 <img width="1266" height="450" alt="pibcp" src="https://github.com/user-attachments/assets/5d0533a9-33b2-4c21-af32-fa87b7e54b6d" />
