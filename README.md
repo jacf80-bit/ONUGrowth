@@ -5,7 +5,7 @@
 <img width="1266" height="450" alt="pibcp" src="https://github.com/user-attachments/assets/5d0533a9-33b2-4c21-af32-fa87b7e54b6d" />
 <h3><Observaciones: El PIB en precios corrientes refleja el valor total de bienes y servicios producidos por un país en un año, expresado en dólares al tipo de cambio vigente.</h3>
 <ul>
-  <li><strong>México y Brasil</strong> consolidan su liderazgo económico en la región, con crecimientos nominales superiores al 30%.</li>
+  <li>**México y Brasil** consolidan su liderazgo económico en la región, con crecimientos nominales superiores al 30%.</li>
   <li><strong>Argentina</strong> muestra el mayor crecimiento porcentual, pero está distorsionado por la inflación y la devaluación del peso Argentino.</li>
   <li><strong>Chile</strong> creció en 2021 pero cayó en 2022 lo que sugiere vulnerabilidad externa o ajuste interno.</li>
   <li><strong>Colombia</strong> mantiene una trayectoria ascendente, lo que refuerza su imagen como economía emergente estable.</li>
