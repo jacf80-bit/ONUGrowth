@@ -50,3 +50,10 @@
   <li><strong>México y Colombia</strong> mantienen una ventaja demográfica relativa, pero deben invertir en educación y empleo juvenil para capitalizarla.</li>
   <li><strong>Chile</strong> con bajo crecimiento poblacional podría enfrentar déficits fiscales por menor base tributaria y mayor gasto en salud y pensiones.</li>
 </ul>
+<h4>Recomendaciones estratégicas:</h4>
+<ul>
+  <li><strong>México</strong> debe consolidar su bono demográfico con inversión en educación, salud y empleo juvenil.</li>
+  <li><strong>Argentina y Brasil</strong> deben revisar sus modelos de desarrollo ante el estancamiento poblacional.</li>
+  <li><strong>Chile</strong> necesita políticas de productividad y automatización para compensar su bajo crecimiento poblacional.</li>
+  <li><strong>Colombia</strong> debe aprovechar su dinamismo poblacional para atraer inversión en sectores emergentes.</li>
+</ul>
