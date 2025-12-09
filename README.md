@@ -27,3 +27,10 @@
   <li><strong>Colombia</strong> emerge como el país más dinámico en 2022, con crecimiento real sostenido, lo que lo posiciona como destino atractivo para inversión y con capacidad de expansión interna.</li>
   <li><strong>Pandemia:</strong> recordar que en 2020 la pandemia provocó la caída de la economía a nivel mundial.</li>
 </ul>
+<img width="1266" height="450" alt="ppa" src="https://github.com/user-attachments/assets/577c5a5c-3fe4-44df-94ca-e72e5c4ecb0e" />
+<h3>Observaciones: El PIB per capita Paridad de Poder Adquisitivo (PPA) mide el ingreso por habitante según el costo de vida local.</h3>
+<ul>
+  <li><strong>Argentina y Colombia</strong> muestran el mayor crecimiento relativo, lo que indica una mejora acelerada en capacidad de consumo.</li>
+  <li><strong>México y Brasil</strong> mantienen una posición intermedia, con crecimiento consistente y sostenido, pero menor que sus pares más dinámicos.</li>
+  <li><strong>Chile</strong> lidera en nivel absoluto, con el mayor PIB per capita en PPA en los tres años.</li> 
+</ul>
