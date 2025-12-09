@@ -57,3 +57,24 @@
   <li><strong>Chile</strong> necesita políticas de productividad y automatización para compensar su bajo crecimiento poblacional.</li>
   <li><strong>Colombia</strong> debe aprovechar su dinamismo poblacional para atraer inversión en sectores emergentes.</li>
 </ul>
+<img width="1266" height="450" alt="ipc" src="https://github.com/user-attachments/assets/ab99ff26-d8cb-4805-b7c5-6bf84a9b78a3" />
+<h3>Observaciones: El índice de precios al consumidor revela implicaciones sobre estabilidad macroeconómica, credibilidad institucional, atractivo para la inversión extranjera y capacidad de integración comercial.</h3>
+<ul>
+  <li><strong>Argentina</strong> la inflación descontrolada sugiere colapso de credibilidad institucional, déficit fiscal crónico y desalineación monetaria, desincentiva la inversión extranjera directa y provoca fuga de capitales.</li>
+  <li><strong>México, Chile, Colombia y Brasil</strong> aunque sus niveles son altos la tendencia es moderada y predecible lo que permite la planeación empresarial internacional y confianza en el tipo de cambio.</li>
+</ul>
+<h4>Recomendaciones estratégicas:</h4>
+<ul>
+  <li><strong>Argentina</strong> necesita reformas estructurales, estabilización monetaria y apoyo multilateral (FMI, BID).</li>
+  <li><strong>México y Chile</strong> deben aprovechar su estabilidad para liderar iniciativas regionales de integración y atracción de capital.</li>
+  <li><strong>Brasil y Colombia</strong> deben reforzar su política fiscal para evitar presiones inflacionarias futuras.</li>  
+</ul>
+<img width="1266" height="450" alt="desemp" src="https://github.com/user-attachments/assets/b3f980e9-205e-416a-8d54-7489a0ed2db3" />
+<h3>Observaciones: La tasa de desempleo ofrece una lectura estratégica sobre competitividad laboral, resiliencia económica y capacidad de absorción de shocks externos.</h3>
+<ul>
+  <li><strong>México</strong> muestra su fortaleza laboral y ventaja geoeconómica por su cercanía con Estados Unidos, crecimiento económico sostenido y atracción de inversión extranjera directa.</li>
+  <li><strong>Argentina y Brasil</strong> aunque muestran mejoras sus tasas siguen siendo elevadas, reflejando fragilidad estructural y alta informalidad. Ambos requieren reformas laborales y fiscales para consolidar su recuperación.</li>
+  <li><strong>Colombia</strong> muestra estancamiento, lo que limita su capacidad de absorber jóvenes en el mercado laboral y puede generar presión migratoria o descontento social.</li>
+  <li><strong>Chile</strong> el aumento del desempleo es preocupante dado su historial de estabilidad, refleja desaceleración económica, conflictos sociales o rigidez estructural.</li>
+  <li><strong>El desempleo elevado</strong> esta correlacionado con el descontento social, la fuga de cerebros y la volatilidad institucional.</li>
+</ul>
