@@ -34,3 +34,19 @@
   <li><strong>México y Brasil</strong> mantienen una posición intermedia, con crecimiento consistente y sostenido, pero menor que sus pares más dinámicos.</li>
   <li><strong>Chile</strong> lidera en nivel absoluto, con el mayor PIB per capita en PPA en los tres años.</li> 
 </ul>
+<img width="1266" height="450" alt="fecu" src="https://github.com/user-attachments/assets/c4dd5040-6bdb-4b84-bd52-84b0a53fe601" />
+<h3>Observaciones: La tasa de fecundidad tiene implicaciones profundas para el desarrollo económico, la sostenibilidad fiscal y la competitividad global.</h3>
+<ul>
+  <li><strong>Una tasa por debajo de 2.1</strong> indica que no se está reemplazando la población, lo que lleva al envejecimiento acelerado.</li>
+  <li><strong>Chile y Argentina</strong> enfrentarán presiones sobre los sistemas de pensiones, salud y productividad laboral.</li>
+  <li><strong>México y Colombia</strong> mantienen una ventaja demográfica relativa, pero deben invertir en educación y empleo juvenil para capitalizarla.</li>
+  <li><strong>Brasil</strong> presenta una tendencia similar a la de Argentina pero cuenta con un mercado interno más grande.</li>
+</ul>
+<img width="1266" height="450" alt="cap" src="https://github.com/user-attachments/assets/95892270-cfd9-4514-a2d8-061abf273261" />
+<h3>Observaciones: El crecimiento anual de población impacta directamente en la competitividad, sostenibilidad fiscal y posicionamiento estratégico.</h3>
+<ul>
+  <li><strong>México y Colombia</strong> mantienen tasas superiores al promedio regional, lo que implica mercados internos más dinámicos, mayor disponibilidad de fuerza laboral y atractivo para industrias intensivas en consumo y producción.</li>
+  <li><strong>Argentina y Brasil</strong> con tasas descendentes enfrentan desafíos de envejecimiento poblacional y menor expansión del mercado interno.</li>
+  <li><strong>México y Colombia</strong> mantienen una ventaja demográfica relativa, pero deben invertir en educación y empleo juvenil para capitalizarla.</li>
+  <li><strong>Chile</strong> con bajo crecimiento poblacional podría enfrentar déficits fiscales por menor base tributaria y mayor gasto en salud y pensiones.</li>
+</ul>
